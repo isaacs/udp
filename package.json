@@ -1,6 +1,6 @@
 {
   "name": "udp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The correct name for Node.js's `dgram` module.",
   "main": "udp.js",
   "repository": "git://github.com/isaacs/udp",
